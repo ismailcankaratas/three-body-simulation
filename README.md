@@ -16,3 +16,6 @@ git clone https://github.com/ismailcankaratas/three-body-simulation
 ## Images
 ![Figure_1](https://github.com/ismailcankaratas/three-body-simulation/assets/64715337/11632a9d-c785-440e-88cc-90701bf6c9c8)
 
+## Contributors
+[ibrahim Sezgin](https://github.com/ibrahimsezginim) 
+
