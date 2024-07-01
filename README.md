@@ -18,4 +18,5 @@ git clone https://github.com/ismailcankaratas/three-body-simulation
 
 ## Contributors
 [ibrahim Sezgin](https://github.com/ibrahimsezginim) 
+[İsa KARAKURT](https://github.com/isakarakurt)
 
